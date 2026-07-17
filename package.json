@@ -1,0 +1,27 @@
+{
+  "name": "eshoponweb",
+  "version": "1.0.0",
+  "description": "This Microsoft reference application is now being maintained by [NimblePros](https://nimblepros.com/).",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "test": "tests"
+  },
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NimblePros/eShopOnWeb.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/NimblePros/eShopOnWeb/issues"
+  },
+  "homepage": "https://github.com/NimblePros/eShopOnWeb#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.61.1",
+    "@types/node": "^26.1.1"
+  }
+}
